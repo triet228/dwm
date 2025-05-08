@@ -22,7 +22,7 @@ Install
 
 
 Uninstall
-```make uninstall```
+```sudo make uninstall```
 
 ## Run dwm
 
