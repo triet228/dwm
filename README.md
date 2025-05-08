@@ -14,9 +14,15 @@ Source code: https://dwm.suckless.org/
 ## Download
 ```git clone https://github.com/triet228/dwm.git```
 ## Installtion
+Go to cloned directory
 ```cd dwm``` 
 
+Install
 ```sudo make clean install```
+
+
+Uninstall
+```make uninstall```
 
 ## Run dwm
 
