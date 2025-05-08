@@ -3,7 +3,6 @@ Triet's version of suckless dwm. Basically dwm with some minor twist to fit Trie
 
 Source code: https://dwm.suckless.org/
 
-Note: dwm does not run on Wayland, it runs on X11 only.
 
 ## Download
 ```git clone https://github.com/triet228/dwm.git```
@@ -13,6 +12,10 @@ Note: dwm does not run on Wayland, it runs on X11 only.
 ```sudo make clean install```
 
 ## Run dwm
+
+Note: dwm does not run on Wayland, it runs on X11 only. Check if you are using Wayland or X11 first. If you want to keep Wayland, just give up dwm and use alternative
+
+
 First go to home directory 
 
 ```cd ~```
