@@ -5,6 +5,11 @@ This is Triet's version of suckless dwm. Basically dwm with some minor twist to 
 
 Source code: https://dwm.suckless.org/
 
+## Current feature
+1. No border. Default has 1 pixel border
+2. No top bar. Default has top bar. Toggle it with Alt + B
+3. st is tag 1
+4. firefox is tag 2
 
 ## Download
 ```git clone https://github.com/triet228/dwm.git```
