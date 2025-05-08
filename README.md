@@ -1,5 +1,5 @@
 # dwm
-Note: dwm runs on Linux only. It's a dynamic window manager for X.
+Note: dwm runs on Linux only. It's a dynamic window manager.
 
 This is Triet's version of suckless dwm. Basically dwm with some minor twist to fit Triet's customization. Keep the suckless philosophy in mind, so less patch is better and align as close to default as possible while making it usable.
 
