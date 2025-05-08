@@ -61,7 +61,5 @@ Once it works, you should be launched into the typical dwm
 
 To toggle top bar: Alt + B
 
-To open terminal
 
-
-Alt + Shift + Enter
+To open terminal: Alt + Shift + Enter
