@@ -11,10 +11,14 @@ Note: dwm does not run on Wayland, it runs on X11 only.
 ```cd dwm``` \
 ```sudo make clean install```
 ## Run dwm
-First go to home directory \\
-```cd ~```\\
-Open .xinitrc or if doesn't exist, create file .xinitrc\\
-```touch .xinitrc```\\
+First go to home directory \
+
+```cd ~```\
+
+Open .xinitrc or if doesn't exist, create file .xinitrc\
+
+```touch .xinitrc```\
+
 If you know how to use vim: ```vim .xinitrc```\\
 Add this line at the end of .xinitrc file\\
 ```exec dwm```\\
