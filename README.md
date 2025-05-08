@@ -8,8 +8,7 @@ Note: dwm does not run on Wayland, it runs on X11 only.
 ## Download
 ```git clone https://github.com/triet228/dwm.git```
 ## Installtion
-```cd dwm```
-
+```cd dwm``` \
 ```sudo make clean install```
 ## Run dwm
 First go to home directory
