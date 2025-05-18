@@ -30,6 +30,7 @@ static const Rule rules[] = {
 	{ "st",         NULL,       NULL,       1 << 0,       0,           -1 },
 	{ "Ferdium",    NULL,       NULL,       1 << 1,       0,           -1 },
 	{ "firefox",    NULL,       NULL,       1 << 2,       0,           -1 },
+	{ "okular",  	NULL,       NULL,       1 << 3,       0,           -1 },
 	{ "KeePassXC",  NULL,       NULL,       1 << 8,       0,           -1 },
 };
 
