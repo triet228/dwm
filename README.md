@@ -9,9 +9,11 @@ Source code: https://dwm.suckless.org/
 1. No border. Default has 1 pixel border
 2. No top bar. Default has top bar. Toggle it with Alt + B
 3. st is tag 1
-4. Chatgpt is tag 2 (wrapped in ferdium)
+4. Ferdium is tag 2 (mainly for LLM models)
 5. firefox is tag 3
-6. KeepassXC is tag 9
+6. okular is tag 4
+7. zoom is tag 5
+8. KeepassXC is tag 9
 
 ## Download
 ```git clone https://github.com/triet228/dwm.git```
