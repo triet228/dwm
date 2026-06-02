@@ -26,13 +26,14 @@ static const Rule rules[] = {
 	 *	WM_CLASS(STRING) = instance, class
 	 *	WM_NAME(STRING) = title
 	 */
-	/* class      instance    title       tags mask     isfloating   monitor */
-	{ "st",         NULL,       NULL,       1 << 0,       0,           -1 },
-	{ "Ferdium",    NULL,       NULL,       1 << 1,       0,           -1 },
-	{ "firefox",    NULL,       NULL,       1 << 2,       0,           -1 },
-	{ "okular",  	NULL,       NULL,       1 << 3,       0,           -1 },
-	{ "zoom",    	NULL,       NULL,       1 << 4,       0,           -1 },
-	{ "KeePassXC",  NULL,       NULL,       1 << 8,       0,           -1 },
+	/* class            instance    title       tags mask     isfloating   monitor */
+	{ "st",               NULL,       NULL,       1 << 0,       0,           -1 },
+	{ "Ferdium",          NULL,       NULL,       1 << 1,       0,           -1 },
+	{ "firefox",          NULL,       NULL,       1 << 2,       0,           -1 },
+	{ "okular",  	      NULL,       NULL,       1 << 3,       0,           -1 },
+	{ "zoom",    	      NULL,       NULL,       1 << 4,       0,           -1 },
+	{ "KeePassXC",        NULL,       NULL,       1 << 8,       0,           -1 },
+	{ "teams-for-linux",  NULL,       NULL,       1 << 7,       0,           -1 },
 };
 
 /* layout(s) */
